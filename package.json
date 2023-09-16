@@ -14,9 +14,13 @@
     "@types/react-dom": "18.2.7",
     "eslint": "8.49.0",
     "eslint-config-next": "13.4.19",
+    "naxui": "^1.1.6",
+    "naxui-icons": "^1.0.5",
+    "naxui-manager": "^1.5.0",
     "next": "13.4.19",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "state-range": "^3.1.3",
     "typescript": "5.2.2"
   }
 }
